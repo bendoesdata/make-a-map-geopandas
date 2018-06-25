@@ -1,4 +1,4 @@
-# make-a-map-geopandas
+# Let's make a map! Using Geopandas and Matplotlib in Python
 
 <p>So you want to make a map using Python. Let's get started!</p>
 
